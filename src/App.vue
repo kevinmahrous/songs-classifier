@@ -1,6 +1,6 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue';
-import Layout from './components/layouts/Layout.vue';
+import Layout from './components/Layouts/Layout.vue';
 const showLogin = ref(true);
 const username = ref(null);
 const profilePicture = ref(null);
