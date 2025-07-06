@@ -2,6 +2,7 @@
 
 **Organize your music by how it moves you.**
 Songs Classifier is a simple, focused tool that lets you organize your music by tempo — helping you build playlists that match your energy and mood.
+
 ---
 
 ## 🚀 Features
