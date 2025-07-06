@@ -439,6 +439,10 @@ onMounted(async () => {
 }
 
 @media (max-width: 900px) {
+    .login-card {
+        width: 50%;
+    }
+
     .cards-container {
         flex-direction: column;
     }
