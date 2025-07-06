@@ -211,7 +211,7 @@ async function createTempoPlaylist() {
     console.log("Playlist is created.");
 }
 const clientId = '1be48ee2258e4e1fa3bc0bd385194313';
-const redirectUri = 'http://127.0.0.1:5173/';
+const redirectUri = 'https://songs-classifier.netlify.app/';
 const scope = 'user-read-private user-read-email user-library-read playlist-read-private playlist-modify-private';
 const authUrl = new URL("https://accounts.spotify.com/authorize");
 async function login() {
